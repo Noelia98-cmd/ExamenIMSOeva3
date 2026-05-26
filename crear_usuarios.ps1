@@ -25,5 +25,3 @@ New-ADUser -Name "offi1user1" `
         -Enabled $true `
         -Path $dominio
 }
-
-Write-Host "✔ 81 usuarios creados correctamente." -ForegroundColor Green
