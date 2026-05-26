@@ -1,0 +1,1 @@
+Aquí esta el script para crear los usuarios en el servidor de Windows Server 2022, son usuarios con rangos grandes, asi que es mejor añadirlos mediante un script y crearlos todos de manera automática.
