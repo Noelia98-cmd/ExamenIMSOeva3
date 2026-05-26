@@ -1,6 +1,6 @@
 Import-Module ActiveDirectory
 
-$pass = ConvertTo-SecureString "P@ssword1" -AsPlainText -Force
+$pass = ConvertTo-SecureString "Pssw0rd!" -AsPlainText -Force
 $dominio = "DC=lea,DC=com"
 
 # ─── offi1: 1 usuario ───
